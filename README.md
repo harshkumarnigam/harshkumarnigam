@@ -1,66 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Harsh%20Kumar%20Nigam&fontSize=46&fontColor=ffffff&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Web%20Architect&descFontSize=19&descAlignY=68&animation=twinkling" width="100%"/>
-</div>
 
-<div align="center">
+  <!-- Dynamic Cyber Neon Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,24&height=220&section=header&text=HARSH%20KUMAR%20NIGAM&fontSize=48&fontColor=00F7FF&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20ARCHITECT&descFontSize=16&descAlignY=72&fontAlignY=42&animation=twinkling" width="100%"/>
 
-  <!-- Dynamic Live Typing SVG -->
+  <!-- Multi-Line Cyberpunk Real-Time Typewriter -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Building+Scalable+AI-Driven+Platforms;React+%7C+TypeScript+%7C+Node.js+%7C+Express+%7C+Gemini+AI;Architecting+Clean%2C+Deterministic+%26+Resilient+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Initializing+Production+Environment...;%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Architect+%7C+TypeScript+%2B+React+%2B+Node.js;%F0%9F%A7%A0+Integrating+Gemini+Vision+Multimodal+AI+Pipelines;%F0%9F%9A%80+Deploying+High-Availability%2C+Zero-Downtime+Apps" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![PackCheck AI](https://img.shields.io/badge/Live_App-PackCheck_AI-00F7FF?style=for-the-badge&logo=netlify&logoColor=black)](https://packcheck-ai.netlify.app)
-  [![Rock Paper Scissors](https://img.shields.io/badge/Live_Game-Play_RPS-brightgreen?style=for-the-badge&logo=githubpages&logoColor=white)](https://harshkumarnigam.github.io/rock-paper-scissors/)
-  [![GitHub Views](https://komarev.com/ghpvc/?username=harshkumarnigam&label=Profile%20Views&color=61afef&style=for-the-badge)](https://github.com/harshkumarnigam)
+  <!-- High-Tech Neon Status Badges -->
+  <a href="https://packcheck-ai.netlify.app"><img src="https://img.shields.io/badge/LIVE_SYSTEM-PACKCHECK_AI-00F7FF?style=for-the-badge&logo=netlify&logoColor=black&labelColor=0d1117" /></a>
+  <a href="https://harshkumarnigam.github.io/rock-paper-scissors/"><img src="https://img.shields.io/badge/GAME_ENGINE-PLAY_RPS-39FF14?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <img src="https://komarev.com/ghpvc/?username=harshkumarnigam&label=RADAR_HITS&color=00F7FF&style=for-the-badge&base=1000" alt="Views" />
 
 </div>
 
 ---
 
-### 👨‍💻 Engineering Profile & Vision
+### 📡 System Architecture & Telemetry
 
-Software Engineer passionate about engineering reliable distributed systems, performant web platforms, and production-grade Multimodal AI integrations. Focused on building clean modular codebases following solid CS fundamentals, low-latency processing, and robust security standards.
-
-- 🔭 **Core Focus:** Distributed Web Systems, Production AI Integrations, Full-Stack Optimization.
-- ⚡ **Engineering Principles:** DRY, SOLID, Test-Driven Thinking, High-Availability Systems.
-- 💬 **Ask me about:** React state paradigms, TypeScript strict typing, Express proxy security, Gemini Multimodal OCR.
-
----
-
-### 💻 Developer Console
-
-```typescript
-interface EngineerProfile {
-  name: string;
-  role: string;
-  location: string;
-  skills: {
-    frontend: string[];
-    backend: string[];
-    ai_cloud: string[];
-  };
-  metrics: {
-    cleanCode: boolean;
-    scalableArchitecture: boolean;
-    uptimeTarget: string;
-  };
-}
-
-const harsh: EngineerProfile = {
-  name: "Harsh Kumar Nigam",
-  role: "Full Stack Software Engineer",
-  location: "India",
-  skills: {
-    frontend: ["React.js", "TypeScript", "JavaScript (ES6+)", "Tailwind CSS", "Vite"],
-    backend: ["Node.js", "Express.js", "REST APIs", "Middleware Pipelines"],
-    ai_cloud: ["Gemini Multimodal Vision AI", "Netlify", "GitHub CI/CD"]
-  },
-  metrics: {
-    cleanCode: true,
-    scalableArchitecture: true,
-    uptimeTarget: "99.99%"
-  }
-};
+```zsh
+> harsh.sys --status
+[SYSTEM INFO]
+● ARCHITECTURE : Distributed / Event-Driven / Full-Stack
+● RUNTIME      : Node.js (v20+), V8, Linux Kernel
+● CORE STACK   : React 18, TypeScript, Express.js, TailwindCSS
+● AI INTEGRATION: Google Gemini 1.5 Flash Vision Multimodal OCR
+● INTEGRITY    : 100% Type-Safe (Strict TypeScript) | 0% Secret Leakage
