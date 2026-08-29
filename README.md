@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pf687qPC/giphy.gif" width="400"/>
+  <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="450" alt="Developer Coding Animation"/>
 </p>
 
 ---
@@ -114,4 +114,4 @@
 
 ---
 
-✨ **Like my work? Drop a star ⭐ on my repositories!** ```
+✨ **Like my work? Drop a star ⭐ on my repositories!**
