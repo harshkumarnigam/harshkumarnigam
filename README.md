@@ -1,44 +1,49 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar Nigam</h1>
-
-<h3 align="center">
-B.Tech Data Science Student | IIT Bombay Campus Ambassador | GeeksforGeeks Campus Mantri
-</h3>
+<h1 align="center">Hey there, I'm Harsh Kumar Nigam! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Software+Engineer;Open+Source+Learner;Building+Projects+and+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Software+Engineer;Problem+Solver;MERN+Stack+Learner;Building+Projects+and+Learning+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Data Science student at Maharana Pratap Engineering College (AKTU)
+🎓 **B.Tech Data Science Student** at Maharana Pratap Engineering College (AKTU)
 
-🌟 IIT Bombay Campus Ambassador
+🌟 **IIT Bombay Campus Ambassador**
 
-🚀 GeeksforGeeks Campus Mantri
+🚀 **GeeksforGeeks Campus Mantri**
 
-💻 Passionate about Software Development, Data Science, and Technology
+💻 Passionate about **Software Development, Data Science & Technology**
 
-🌱 Continuously learning and building practical projects
+🌱 Currently learning **DSA, Java, Web Development & MERN Stack**
 
-🎯 Aspiring Software Engineer focused on creating impactful solutions
+🎯 Aspiring **Software Engineer**
+
+⚡ I love solving problems and building practical projects.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Languages
+### 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
 </p>
 
-### Web Development
+### 🌐 Web Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,react" />
 </p>
 
-### Tools
+### 🔧 Tools & Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -48,25 +53,29 @@ B.Tech Data Science Student | IIT Bombay Campus Ambassador | GeeksforGeeks Campu
 ## 📂 Featured Projects
 
 ### 📦 PackCheck AI
-Smart Label Compliance Scanner designed to analyze packaged products and check compliance requirements using AI-powered validation.
+AI-powered smart label compliance scanner designed to analyze packaged products and validate compliance requirements.
 
 ### ✂️ Rock Paper Scissors
-Interactive Java-based game implementing game logic and user interaction.
+Interactive Java-based game implementing game logic, user interaction and decision making.
 
-### 🌐 GitHub Profile
-Personal developer profile showcasing projects, skills, and achievements.
+### 🌐 Developer Portfolio
+A personal developer profile showcasing my projects, skills, achievements and learning journey.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumarnigam&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumarnigam&theme=tokyonight" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=harshkumarnigam&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumarnigam&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumarnigam&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumarnigam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,8 +84,17 @@ Personal developer profile showcasing projects, skills, and achievements.
 
 - 🌟 IIT Bombay Campus Ambassador
 - 🚀 GeeksforGeeks Campus Mantri
-- 💻 Active Developer and Technology Enthusiast
-- 📚 Continuous Learner in Software Development & Data Science
+- 💻 Active Developer & Technology Enthusiast
+- 📚 Continuous Learner
+- 🎯 Aspiring Software Engineer
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkumarnigam&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -100,8 +118,6 @@ Personal developer profile showcasing projects, skills, and achievements.
 
 ---
 
-<div align="center">
-
-### ⭐ Learning, Building, and Growing Every Day
-
-</div>
+<p align="center">
+  ⭐ <b>Learning, Building, and Growing Every Day</b> 🚀
+</p>
