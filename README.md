@@ -62,30 +62,6 @@
 
 ---
 
-## 📊✨ My GitHub Stats
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=harshkumarnigam&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
-       alt="GitHub Streak" 
-       width="500" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkumarnigam&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" 
-       alt="GitHub Stats" 
-       width="500" />
-  
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=harshkumarnigam&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" 
-       alt="GitHub Trophies" 
-       width="100%" />
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
