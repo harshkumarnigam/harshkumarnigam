@@ -1,26 +1,107 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harsh Kumar Nigam</h1>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=220&section=header&text=HARSH%20KUMAR%20NIGAM&fontSize=48&fontColor=00F7FF&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20SYSTEMS%20ARCHITECT&descFontSize=16&descAlignY=72&fontAlignY=42&animation=twinkling" width="100%"/>
+<h3 align="center">
+B.Tech Data Science Student | IIT Bombay Campus Ambassador | GeeksforGeeks Campus Mantri
+</h3>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Crafting+Scalable+Full-Stack+Web+Platforms;%F0%9F%A7%A0+Integrating+Gemini+Vision+Multimodal+AI;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Express+%7C+Node.js;%F0%9F%94%A5+Building+Production-Ready+Software" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://packcheck-ai.netlify.app"><img src="https://img.shields.io/badge/LIVE_SYSTEM-PACKCHECK_AI-00F7FF?style=for-the-badge&logo=netlify&logoColor=black&labelColor=0d1117" /></a>
-  <a href="https://harshkumarnigam.github.io/rock-paper-scissors/"><img src="https://img.shields.io/badge/LIVE_GAME-PLAY_RPS-39FF14?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=harshkumarnigam&label=PROFILE_VIEWS&color=00F7FF&style=for-the-badge&base=1000" alt="Views" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Software+Engineer;Open+Source+Learner;Building+Projects+and+Learning+Every+Day" />
+</p>
 
 ---
 
-### ⚡ System Status
+## 🚀 About Me
 
-```bash
-$ harsh --status
-● ROLE          : Full Stack Software Engineer
-● CORE TECH     : React 18, TypeScript, Node.js, Express.js
-● AI INTEGRATION: Gemini Multimodal Vision API & OCR Processing
-● CODE QUALITY  : 100% Type-Safe · Production Tested · Zero Leakage
+🎓 B.Tech Data Science student at Maharana Pratap Engineering College (AKTU)
+
+🌟 IIT Bombay Campus Ambassador
+
+🚀 GeeksforGeeks Campus Mantri
+
+💻 Passionate about Software Development, Data Science, and Technology
+
+🌱 Continuously learning and building practical projects
+
+🎯 Aspiring Software Engineer focused on creating impactful solutions
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
+</p>
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 📦 PackCheck AI
+Smart Label Compliance Scanner designed to analyze packaged products and check compliance requirements using AI-powered validation.
+
+### ✂️ Rock Paper Scissors
+Interactive Java-based game implementing game logic and user interaction.
+
+### 🌐 GitHub Profile
+Personal developer profile showcasing projects, skills, and achievements.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumarnigam&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumarnigam&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumarnigam&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🌟 IIT Bombay Campus Ambassador
+- 🚀 GeeksforGeeks Campus Mantri
+- 💻 Active Developer and Technology Enthusiast
+- 📚 Continuous Learner in Software Development & Data Science
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:harshkumarnigam2008@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-kumar-nigam-554118381/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harshkumarnigam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Learning, Building, and Growing Every Day
+
+</div>
