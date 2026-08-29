@@ -5,18 +5,21 @@ B.Tech Data Science Student | IIT Bombay Campus Ambassador | GeeksforGeeks Campu
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student;Aspiring+Software+Engineer;Open+Source+Learner;Building+Projects+and+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Science+Student;Aspiring+Software+Engineer;Open+Source+Learner;Building+Projects+and+Learning+Every+Day" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" alt="Header Banner Animation">
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="600" alt="Developer Coding Animation">
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="300" alt="Left Animation">
+    </td>
+    <td align="center">
+      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="300" alt="Right Animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,8 +69,8 @@ Personal developer profile showcasing my projects, skills, and ongoing achieveme
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumarnigam&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumarnigam&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=harshkumarnigam&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumarnigam&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -92,4 +95,15 @@ Personal developer profile showcasing my projects, skills, and ongoing achieveme
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-kumar-nigam-554118381/">
-    <img src="
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/harshkumarnigam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>⭐ Learning, Building, and Growing Every Day</h3>
+</div>
