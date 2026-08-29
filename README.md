@@ -5,7 +5,7 @@ B.Tech Data Science Student | IIT Bombay Campus Ambassador | GeeksforGeeks Campu
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Software+Engineer;Open+Source+Learner;Building+Projects+and+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student;Aspiring+Software+Engineer;Open+Source+Learner;Building+Projects+and+Learning+Every+Day" />
 </p>
 
 ---
